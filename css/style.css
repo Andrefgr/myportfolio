@@ -1459,7 +1459,7 @@ span.border.two:after {
         margin: 113px 0px 0;
     }
     .news-img,.news-img.two {
-        /*n„o estava aqui*/
+        /*n√£o estava aqui*/
         width: 100%;
         float: none;
         position: relative;
@@ -2008,7 +2008,7 @@ span.border.two:after {
     color: #1a6725;
 }
 .programming-row {
-    /*text-align: center;*/
+    text-align: center;
     display: flex;
     flex-wrap: wrap;
     padding: 5px;

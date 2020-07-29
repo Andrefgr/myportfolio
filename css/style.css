@@ -2008,7 +2008,7 @@ span.border.two:after {
     color: #1a6725;
 }
 .programming-row {
-    /*text-align: center;*/
+    text-align: center;
     display: flex;
     flex-wrap: wrap;
     padding: 5px;
